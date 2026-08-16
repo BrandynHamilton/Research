@@ -40,6 +40,15 @@ margin: 0;
 line-height: 1.6;
 }
 
+.description a {
+color: #2c5aa0;
+text-decoration: underline;
+}
+
+.description a:hover {
+color: #4a90d9;
+}
+
 h2 {
 font-size: 13px;
 font-weight: 700;
@@ -136,7 +145,7 @@ margin: 8px 0;
 }
 
 .nav a {
-color: #4a90d9;
+color: #2c5aa0;
 text-decoration: underline;
 }
 
