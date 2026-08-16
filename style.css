@@ -121,6 +121,29 @@ background: #ddd;
 margin: 48px 0;
 }
 
+.nav {
+list-style: none;
+padding: 0;
+margin: 16px 0 0;
+font-size: 14px;
+border-top: 1px solid #eee;
+padding-top: 12px;
+margin-top: 12px;
+}
+
+.nav li {
+margin: 8px 0;
+}
+
+.nav a {
+color: #4a90d9;
+text-decoration: underline;
+}
+
+.nav a:hover {
+color: #2c5aa0;
+}
+
 @media (max-width: 540px) {
 .container {
 padding: 32px 20px 60px;
