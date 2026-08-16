@@ -42,11 +42,11 @@ line-height: 1.6;
 
 h2 {
 font-size: 13px;
-font-weight: 600;
+font-weight: 700;
 text-transform: uppercase;
 letter-spacing: 1.5px;
-color: #999;
-margin: 48px 0 20px;
+color: #000;
+margin: 64px 0 24px;
 }
 
 h2:first-of-type {
@@ -112,6 +112,13 @@ text-decoration: none;
 
 footer a:hover {
 color: #4a90d9;
+}
+
+hr {
+border: none;
+height: 1px;
+background: #ddd;
+margin: 48px 0;
 }
 
 @media (max-width: 540px) {
